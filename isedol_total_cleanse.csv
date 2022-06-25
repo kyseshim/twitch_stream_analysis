@@ -1,4 +1,4 @@
-user,index_months,year,month,date,weekday,date_formatting,stream_url,length_minute,Watch time (hours),avg_viewers,peak_viewers,new_followers,followers_hourly,views,views_hourly,Cattegory,co_stream,event
+user,index_months,year,month,date,weekday,date_formatting,stream_url,length_minute,watchtime_hrs,avg_viewers,peak_viewers,new_followers,followers_hourly,views,views_hourly,Cattegory,co_stream,event
 vo_ine,15,2022,3,14,1,3/14/2022,https://sullygnome.com/channel/vo_ine/stream/45843648381,178,1770032,9944,15773,512,157,70685,21749,Just Chatting,,
 vo_ine,15,2022,3,13,7,3/13/2022,https://sullygnome.com/channel/vo_ine/stream/45829954717,105,1234065,11753,15257,306,153,30565,15282,Just Chatting,,
 vo_ine,15,2022,3,12,6,3/12/2022,https://sullygnome.com/channel/vo_ine/stream/45819413645,354,3208656,9064,12671,627,100,80187,12829,Just Chatting,,
